@@ -33,7 +33,8 @@
             {
                 "label": "Style Guide",
                 "url": "/style-guide",
-                "style": "link"
+                "style": "link",
+                "icon_position": "right"
             }
         ],
         "has_secondary_nav": true,
