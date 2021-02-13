@@ -55,7 +55,7 @@
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features",
-        "logo": "images/logo-OI.png"
+        "logo": "images/logo.svg"
     },
     "footer": {
         "logo_alt": "DIY logo",
