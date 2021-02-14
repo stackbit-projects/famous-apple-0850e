@@ -7,6 +7,7 @@ sections:
     align: center
     padding_top: large
     padding_bottom: small
+    image: images/AdobeStock_408390038_Preview.jpeg
   - type: grid_section
     grid_items:
       - title: Personal
