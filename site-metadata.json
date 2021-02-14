@@ -35,7 +35,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "lorem-ipsum",
+                "label": "About Us",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "has_icon": false,
