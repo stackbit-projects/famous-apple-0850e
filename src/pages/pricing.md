@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Pick Your Plan
     subtitle: Optional hero section subtitle
-    align: center
+    align: left
     padding_top: large
     padding_bottom: small
     background_image: images/modern-hedgehog.jpeg
