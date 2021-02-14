@@ -46,7 +46,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Menu Name",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "has_icon": false,
