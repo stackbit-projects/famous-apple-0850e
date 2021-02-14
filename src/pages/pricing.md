@@ -9,6 +9,7 @@ sections:
     padding_bottom: small
     background_image: images/modern-hedgehog.jpeg
     has_border: false
+    background_image_size: contain
   - type: grid_section
     grid_items:
       - title: Personal
