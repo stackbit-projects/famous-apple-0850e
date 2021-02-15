@@ -2,7 +2,7 @@
 title: Pricing
 sections:
   - type: hero_section
-    title: AgribusinessMade Easy
+    title: Agribusiness Made Easy
     subtitle: "Organo India\_is leading the fight against food insecurity by improving the livelihood of smallholder farmers and making\_Agribusiness\_profitable"
     align: left
     padding_top: large
