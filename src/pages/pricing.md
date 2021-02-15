@@ -2,7 +2,7 @@
 title: Pricing
 sections:
   - type: hero_section
-    title: Pick Your Plan
+    title: AgribusinessMade Easy
     subtitle: Optional hero section subtitle
     align: left
     padding_top: large
