@@ -27,7 +27,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Pan India Market Linkages
-        subtitle: Optional subtitle
+        subtitle: "In order to provide market to\nFarmers we have reputed offtakes\_across country to buy our produce on time on\nthe other hand buyers find themselves in secured environment to procure from organo India\_Platform."
         title_align: left
         content: |-
           ---
