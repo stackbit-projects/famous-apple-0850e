@@ -161,7 +161,7 @@ sections:
     has_border: false
     background_color: none
   - type: grid_section
-    title: Our
+    title: Our Value Chain
     grid_items:
       - title: Lorem ipsum dolor sit amet consectetur?
         content: >-
