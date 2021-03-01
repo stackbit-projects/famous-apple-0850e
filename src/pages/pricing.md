@@ -140,6 +140,7 @@ sections:
           doorstep & Technical know how support to improve farm productivity &
           farm economy with Sustainability.
         title_align: center
+        content_align: center
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
