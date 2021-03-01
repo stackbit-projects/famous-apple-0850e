@@ -18,17 +18,7 @@ sections:
       - title: Our Value Chain.
         subtitle: Optional subtitle
         title_align: left
-        content: |-
-          ---
-
-          ### $9
-
-          per month, billed yearly
-
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
+        content: "●\_\_\_\_\_Farmers sensitization & Registration\n\n●\_\_\_\_\_Group Farming for better Economic growth\n\n●\_\_\_\_\_Accessibility of Agri Resources, New Technology & Consultancy \n\n●\_\_\_\_\_Farm Gate Value Addition comply with buyer requirement.\n\n●\_\_\_\_\_Access to Market Linkages Platform\n\n●\_\_\_\_\_End to End Supply Chain\n"
         content_align: left
         actions:
           - label: Start with Personal
