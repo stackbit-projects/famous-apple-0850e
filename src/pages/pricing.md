@@ -139,7 +139,6 @@ sections:
           Offering best in class technology for smart farming. Input & Seed at
           doorstep & Technical know how support to improve farm productivity &
           farm economy with Sustainability.
-        content: "Offering best in class technology for smart farming, Inputs & Seed at doorstep & Technical know how support to inporve farm productivity & farm economy\_ with Sustainability.\n\n\n\n"
         title_align: center
     grid_cols: two
     grid_gap_horiz: medium
