@@ -36,7 +36,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Pan
+      - title: Pan India Market
         subtitle: Optional subtitle
         title_align: left
         content: |-
