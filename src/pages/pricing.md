@@ -136,10 +136,7 @@ sections:
       accessibility, Technology Intervention & farm Consulatancy
     grid_items:
       - title: Porta nibh venenatis cras sed felis eget velit aliquet?
-        content: >-
-          Facilisis gravida neque convallis a cras semper auctor neque vitae.
-          Dictum varius duis at consectetur lorem donec massa. Porta non
-          pulvinar neque laoreet suspendisse interdum consectetur libero.
+        content: "Offering best in class technology for smart farming, Inputs & Seed at doorstep & Technical know how support to inporve farm productivity & farm economy\_ with Sustainability.\n\n\n\n"
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
