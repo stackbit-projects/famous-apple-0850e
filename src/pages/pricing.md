@@ -135,13 +135,6 @@ sections:
       Resources
       accessibility, Technology Intervention & farm Consulatancy
     grid_items:
-      - title: Viverra nam libero justo laoreet sit?
-        content: >-
-          In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
-          posuere. Bibendum neque egestas congue quisque egestas. Mauris sit
-          amet massa vitae tortor condimentum lacinia. Tortor at auctor urna
-          nunc id cursus metus aliquam eleifend. Sed nisi lacus sed viverra
-          tellus. Non enim praesent elementum facilisis.
       - title: Cras tincidunt lobortis feugiat vivamus at augue eget arcu?
         content: >-
           Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
