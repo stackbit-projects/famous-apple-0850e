@@ -135,11 +135,6 @@ sections:
       Resources
       accessibility, Technology Intervention & farm Consulatancy
     grid_items:
-      - title: Sagittis vitae et leo duis ut diam?
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
       - title: Viverra nam libero justo laoreet sit?
         content: >-
           In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
