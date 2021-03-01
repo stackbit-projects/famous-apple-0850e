@@ -135,7 +135,10 @@ sections:
       Resources
       accessibility, Technology Intervention & farm Consulatancy
     grid_items:
-      - title: Porta nibh venenatis cras sed felis eget velit aliquet?
+      - title: >-
+          Offering best in class technology for smart farming. Input & Seed at
+          doorstep & Technical know how support to improve farm productivity &
+          farm economy with Sustainability.
         content: "Offering best in class technology for smart farming, Inputs & Seed at doorstep & Technical know how support to inporve farm productivity & farm economy\_ with Sustainability.\n\n\n\n"
     grid_cols: two
     grid_gap_horiz: medium
