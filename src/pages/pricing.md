@@ -135,11 +135,7 @@ sections:
       Resources
       accessibility, Technology Intervention & farm Consultancy
     grid_items:
-      - title: >-
-          Offering best in class technology for smart farming. Input & Seed at
-          doorstep & Technical know how support to improve farm productivity &
-          farm economy with Sustainability.
-        title_align: center
+      - title_align: center
         content_align: center
     grid_cols: two
     grid_gap_horiz: medium
