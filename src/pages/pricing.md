@@ -135,11 +135,6 @@ sections:
       Resources
       accessibility, Technology Intervention & farm Consulatancy
     grid_items:
-      - title: Lorem ipsum dolor sit amet consectetur?
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
       - title: Sagittis vitae et leo duis ut diam?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
