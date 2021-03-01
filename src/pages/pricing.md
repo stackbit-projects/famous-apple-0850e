@@ -133,7 +133,7 @@ sections:
   - type: grid_section
     title: |-
       Resources
-      accessibility, Technology Intervention & farm Consulatancy
+      accessibility, Technology Intervention & farm Consultancy
     grid_items:
       - title: >-
           Offering best in class technology for smart farming. Input & Seed at
