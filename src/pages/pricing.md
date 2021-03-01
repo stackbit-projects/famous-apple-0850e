@@ -15,7 +15,7 @@ sections:
     background_image_size: cover
   - type: grid_section
     grid_items:
-      - title: Personal
+      - title: Our Value Chain.
         subtitle: Optional subtitle
         title_align: left
         content: |-
