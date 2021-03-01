@@ -3,7 +3,10 @@ title: Pricing
 sections:
   - type: hero_section
     title: Agri Business Made Easy
-    subtitle: 'https://www.behance.net/vivekanandgoswami'
+    subtitle: |-
+      Organo India is on the mission to transform India’s Agri
+      ecosystem digitally while ensuring transparent & fair returns to farmers
+      & hassle free bulk buying of Agri produce for bulk buyers Across India.
     align: left
     padding_top: large
     padding_bottom: small
