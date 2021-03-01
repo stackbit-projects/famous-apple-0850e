@@ -161,7 +161,7 @@ sections:
     has_border: false
     background_color: none
   - type: grid_section
-    title: 'You asked, we answered!'
+    title: Our
     grid_items:
       - title: Lorem ipsum dolor sit amet consectetur?
         content: >-
