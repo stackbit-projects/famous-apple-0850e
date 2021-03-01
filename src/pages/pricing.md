@@ -38,7 +38,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Our Farmers Network
-        subtitle: Optional subtitle
+        subtitle: "●\_\_\_\_\_\_\_\nSupply in 5 States\n\n●\_\_\_\_\_\_\_\nTraded over 300MT Agro\ncommodity\n\n●\_\_\_\_\_\_\_\nOur Core\nproducts-Spices, Herbs , Super Foods, Exotic & rare products\n\nPan India storage facility"
         title_align: left
         content: |-
           ---
