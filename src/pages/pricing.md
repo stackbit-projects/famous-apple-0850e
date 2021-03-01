@@ -29,18 +29,7 @@ sections:
       - title: Pan India Market Linkages
         subtitle: "In order to provide market to\nFarmers we have reputed offtakes\_across country to buy our produce on time on\nthe other hand buyers find themselves in secured environment to procure from organo India\_Platform."
         title_align: left
-        content: |-
-          ---
-
-          ### $19
-
-          per month, billed yearly
-
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Fringilla diam magnis libero lacinia
-          * Litora primis facilisis ullamcorper per
+        content: "●\_\_\_\_\_Supply in 5 States\n\n●\_\_\_\_\_Traded over 300MT Agro commodity\n\n●\_\_\_\_\_Our Core products-Spices, Herbs, Super Foods, Exotic & rare products\n"
         content_align: left
         actions:
           - label: Start with Premium
