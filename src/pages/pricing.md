@@ -36,7 +36,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Pan India Market Linkage
+      - title: Pan India Market Linkages
         subtitle: Optional subtitle
         title_align: left
         content: |-
