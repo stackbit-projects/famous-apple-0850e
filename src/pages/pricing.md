@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     title: Agri Business Made Easy
-    subtitle: "Organo India\_is leading the fight against food insecurity by improving the livelihood of smallholder farmers and making\_Agribusiness\_profitable"
+    subtitle: 'https://www.behance.net/vivekanandgoswami'
     align: left
     padding_top: large
     padding_bottom: small
