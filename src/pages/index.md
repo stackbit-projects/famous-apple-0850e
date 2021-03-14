@@ -264,7 +264,7 @@ sections:
         image_position: top
         title: Pulkit Yadav
       - title: Vivek Tripathi
-        subtitle: Developer Advocate
+        subtitle: Mentor Organo India
         title_align: center
         image: images/hugh-saturation.jpg
         image_position: top
