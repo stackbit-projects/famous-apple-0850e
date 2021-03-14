@@ -189,9 +189,6 @@ sections:
           premium for our produce & timely.
 
 
-          ***
-
-
           **Girish**,
 
 
