@@ -262,7 +262,7 @@ sections:
         title_align: center
         image: images/dianne-ameter.jpg
         image_position: top
-        title: Dreamer & Enabler-Organo India
+        title: Pulkit Yadav
       - title: Pulkit Yadav
         subtitle: Developer Advocate
         title_align: center
