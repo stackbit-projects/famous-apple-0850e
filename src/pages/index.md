@@ -113,7 +113,10 @@ sections:
   - type: features_section
     features:
       - title: Resources accebssibility Technology Intervention & farm Consultancy.
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
+        subtitle: >-
+          We are offering best in class technology for smart farming, Inputs &
+          Seed at the doorstep & Technical know-how support to improve farm
+          productivity & farm economy with Sustainability.
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
         media_position: right
