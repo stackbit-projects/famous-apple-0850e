@@ -61,7 +61,6 @@ sections:
     title: Pan India Market Linkages
     features:
       - title: The Big Title For the Feature
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare.'
         content: >+
           In order to provide a market to Farmers, we have reputed off-takers
           across the country to buy our products on time on the other hand;
