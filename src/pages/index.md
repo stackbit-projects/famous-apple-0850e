@@ -34,6 +34,7 @@ sections:
         image_alt: Gatsby logo
         image_align: center
         title: 'Accessibility of Agri Resources, New Technology & Consultancy'
+        title_align: center
       - image: images/logo-4.svg
         image_alt: Sanity logo
         image_align: center
