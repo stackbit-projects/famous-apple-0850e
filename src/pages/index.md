@@ -273,7 +273,7 @@ sections:
         image: images/hilary-ouse.jpg
         image_position: top
         title: Mentor Organo India
-      - title: lorem-ipsum
+      - title: Vivek Tripathi
         subtitle: lorem-ipsum
         title_align: left
         content: >-
