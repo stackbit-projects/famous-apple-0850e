@@ -145,7 +145,7 @@ sections:
       - title: Transparent & Fair Return to farmers
         title_align: left
         content: |
-          Transparent & Fair Return to farmers
+          Transparent & Fair Return to farmer
         content_align: left
         actions:
           - label: Learn More
