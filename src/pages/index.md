@@ -247,7 +247,7 @@ sections:
     actions: []
     actions_position: right
     actions_width: fourty
-    align: center
+    align: left
     padding_top: large
     padding_bottom: large
     background_color: primary
