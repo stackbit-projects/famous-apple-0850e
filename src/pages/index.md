@@ -68,22 +68,15 @@ sections:
           India Platform.
 
 
-          Supply in 5 States
 
 
-          <!---->
+          Supply in 5 State
 
 
           Traded over 300MT Agro commodity
 
 
-          <!---->
-
-
           Our Core products-Spices, Herbs, Super Foods, Exotic & rare products
-
-
-          <!---->
 
 
           Pan India storage facility
