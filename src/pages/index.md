@@ -3,7 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: This Is A Big Hero Headline
-    subtitle: Optional hero section subtitle
     content: >
       Organo India is on the mission to transform India’s Agri ecosystem
       digitally while ensuring transparent & fair returns to farmers &
