@@ -50,8 +50,7 @@ sections:
         image_align: center
         title: End to End Supply Chain
         title_align: center
-      - image: images/logo-7.svg
-        image_alt: Gridsome logo
+      - image_alt: Gridsome logo
         image_align: center
       - image: images/logo-8.svg
         image_alt: Git logo
