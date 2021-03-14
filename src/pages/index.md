@@ -85,10 +85,23 @@ sections:
         media_position: right
         media_width: fifty
       - title: Our Farmers Network
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          We are proving first of Its kind formal selling Tech platform to
+          farmers.
+
+
+
+
+          Over 70+ FPO with 25000 Farmers base
+
+
+          Cultivates over 30000 Hectares land
+
+
+          12 State, 70 district
+
+
+          Over 40+ Agri Commodity cultivated
         actions:
           - label: Learn More
             url: /style-guide
