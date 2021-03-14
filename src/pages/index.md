@@ -59,7 +59,7 @@ sections:
     grid_gap_vert: medium
   - type: features_section
     features:
-      - title: Market to Farmer
+      - title: Pan India Market Linkages
         content: >
           In order to provide a market to Farmers, we have reputed off-takers
           across the country to buy our products on time on the other hand;
