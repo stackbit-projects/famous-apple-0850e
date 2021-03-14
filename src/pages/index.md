@@ -103,7 +103,7 @@ sections:
 
           Over 40+ Agri Commodity cultivated
         actions: []
-        image: images/classic/feature-2.png
+        image: images/farmer network.png
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
