@@ -126,7 +126,7 @@ sections:
   - type: grid_section
     title: Why Organo India
     grid_items:
-      - title: Section Item 1
+      - title: One on One farm consultancy to Farmers for smart farming.
         title_align: left
         content: |
           One on One farm consultancy to Farmers for smart farming
