@@ -272,7 +272,7 @@ sections:
     align: center
     background_color: secondary
   - type: blog_feed_section
-    title: Impact Agenda
+    title: Blog
     actions:
       - label: View All
         url: /blog
