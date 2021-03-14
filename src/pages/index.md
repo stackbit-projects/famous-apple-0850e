@@ -272,6 +272,7 @@ sections:
         title_align: center
         image: images/hilary-ouse.jpg
         image_position: top
+        title: Mentor Organo India
     grid_cols: four
     align: center
     background_color: secondary
