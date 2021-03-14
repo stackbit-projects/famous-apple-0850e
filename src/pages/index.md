@@ -48,6 +48,7 @@ sections:
       - image: images/logo-6.svg
         image_alt: Next.js logo
         image_align: center
+        title: End to End Supply Chain
       - image: images/logo-7.svg
         image_alt: Gridsome logo
         image_align: center
