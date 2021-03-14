@@ -164,10 +164,8 @@ sections:
         image_has_padding: true
       - title: Section Item 3
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: |
+          Farm Gate Produce grade for quality management
         content_align: left
         actions:
           - label: Learn More
