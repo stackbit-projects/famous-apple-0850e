@@ -25,7 +25,7 @@ sections:
         image_align: center
         title: Farmers sensitization & Registration
         title_align: center
-      - image: images/logo-2.svg
+      - image: images/Group farming.svg
         image_alt: Netlify logo
         image_align: center
         title: Group Farming for better Economic growth
