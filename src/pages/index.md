@@ -17,7 +17,7 @@ sections:
     background_color: primary
     background_image: images/ultra-panda.jpeg
   - type: grid_section
-    title: Image Grid
+    title: Our Value Chain
     subtitle: Grid Section Example
     align: center
     grid_items:
