@@ -189,10 +189,13 @@ sections:
           premium for our produce & timely.
 
 
-          ****
+          ***
 
 
-          **Girish, **Organic farmers-Rajasthan
+          **Girish**,
+
+
+          Organic farmers-Rajasthan
         image: images/hanson-deck.png
         image_alt: Hanson Deck
         image_position: left
