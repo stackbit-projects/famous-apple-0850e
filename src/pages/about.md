@@ -43,7 +43,7 @@ sections:
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
-        title: Section Title Three
+        title: How it
   - type: grid_section
     title: Our Officess
     grid_items:
