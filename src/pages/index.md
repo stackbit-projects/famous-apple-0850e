@@ -128,8 +128,6 @@ sections:
     grid_items:
       - title: One on One farm consultancy to Farmers for smart farming.
         title_align: left
-        content: |
-          One on One farm consultancy to Farmers for smart farming
         content_align: left
         actions:
           - label: Learn More
