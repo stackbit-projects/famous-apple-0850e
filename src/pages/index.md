@@ -268,11 +268,6 @@ sections:
         title_align: center
         image: images/hugh-saturation.jpg
         image_position: top
-      - subtitle: Operations Manager
-        title_align: center
-        image: images/hilary-ouse.jpg
-        image_position: top
-        title: Mentor Organo India
       - title: Vivek Tripathi
         subtitle: lorem-ipsum
         title_align: left
