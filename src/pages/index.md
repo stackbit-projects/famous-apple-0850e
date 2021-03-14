@@ -62,10 +62,12 @@ sections:
     features:
       - title: The Big Title For the Feature
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare.'
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >+
+          In order to provide a market to Farmers, we have reputed off-takers
+          across the country to buy our products on time on the other hand;
+          buyers find themselves in a secured environment to procure from organo
+          India Platform.
+
         actions:
           - label: Learn More
             url: /style-guide
