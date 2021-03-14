@@ -10,10 +10,7 @@ sections:
     features:
       - title: Section Title One
         subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: "Organo India is on the mission to transform India’s Agri ecosystem digitally while ensuring transparent & fair returns to farmers & hassle-free bulk buying of Agri produce for bulk buyers Across India.\n\n\n\n\nVision: Transform Agri to Highest-paying profession for all Agri stakeholders, especially farmers\n\nMission:\_ Provide Best class technology, Farmgate value addition, Create a Robust end to end supply chain.\n\n**USP: **Standardization at farm gate & hassle-free procurement\n"
         image: images/about-5.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
