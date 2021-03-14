@@ -184,12 +184,15 @@ sections:
     title: Reviews Section
     subtitle: Grid Section Example
     grid_items:
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          We dealt with Organo India; their support was amazing and paid a
+          premium for our produce & timely.
 
 
-          **Hanson Deck,** *App Developer, Studio*
+          ****
+
+
+          **Girish, **Organic farmers-Rajasthan
         image: images/hanson-deck.png
         image_alt: Hanson Deck
         image_position: left
