@@ -35,7 +35,7 @@ sections:
         image_align: center
         title: 'Accessibility of Agri Resources, New Technology & Consultancy'
         title_align: center
-      - image: images/Farm gate.svg
+      - image: images/square-paprika.svg
         image_alt: Sanity logo
         image_align: center
         title: Farm Gate Value Addition comply with buyer requirement
