@@ -18,7 +18,6 @@ sections:
     background_image: images/ultra-panda.jpeg
   - type: grid_section
     title: Our Value Chain
-    subtitle: Grid Section Example
     align: center
     grid_items:
       - image: images/logo-1.svg
