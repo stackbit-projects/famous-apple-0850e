@@ -253,7 +253,7 @@ sections:
         url: /style-guide
         style: primary
     grid_items:
-      - title: Gustav Purpleson
+      - title: Ajeet Singh
         subtitle: Co-Founder & CEO
         title_align: center
         image: images/gustav-purpleson.jpg
