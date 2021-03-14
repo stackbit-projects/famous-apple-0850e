@@ -4,9 +4,10 @@ sections:
   - type: hero_section
     title: This Is A Big Hero Headline
     subtitle: Optional hero section subtitle
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      Organo India is on the mission to transform India’s Agri ecosystem
+      digitally while ensuring transparent & fair returns to farmers &
+      hassle-free bulk buying of Agri produce for bulk buyers Across India.
     actions:
       - label: Try Free
         url: /pricing
