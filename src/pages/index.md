@@ -20,7 +20,7 @@ sections:
     title: Our Value Chain
     align: center
     grid_items:
-      - image: images/Registration.svg
+      - image: images/Regisration.svg
         image_alt: Contentful logo
         image_align: center
         title: Farmers sensitization & Registration
