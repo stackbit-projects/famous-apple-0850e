@@ -291,19 +291,6 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-    subtitle: >-
-      Good Health & Well Being Economic Growth Climate Action Life on Land
-      Responsible production & Consumption Partnerships for goals Social Proofs:
-      Girish-Organic farmers-Rajasthan We dealt with Organo India; their support
-      was amazing and paid a premium for our produce & timely Suresh-Chia
-      Farmers; Loved organo way of working Dano Tlang: Meghalaya Since we dealt
-      first time with organo india but we don’t felt at any point of time that
-      we are dealing with wrong company, they are company with commitment.
-      Sanjay Behl-SPS Agro We liked the Attitude of Ajeet (Founder Organo
-      India), Since it was first time, but I felt I am in home and given order
-      at first go, we found not only payment guarantee but also quality material
-      and above all Organo India checks & balance at every point of Supply,
-      which you can see hardly.
   - type: cta_section
     title: 'Our Journey:'
     content: "\n2016-Organo India founded\n\nApril 2017 Supply of Organic Vegetables in collaboration with Vege vendor in societies.\n\nJune 2017 Reached 500 farmer base\n\nOctober 2017 We reached 4 states & 2000 Farmers base\n\nJanuary 2018 We Started connecting FPOs & Reached 15 Fpos with 5000 Farmer base\_\n\nNovember 2019 We reached 35 FPOs with a 10000 Farmer base & 35 Potential buyer\n\nApril 2020-7 States, 60 FPOs, 20000 farmers\n\nNovember 2020-10 States, 70 FPOs, 30000 farmers.\n"
