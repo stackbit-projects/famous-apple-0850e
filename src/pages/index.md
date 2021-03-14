@@ -197,12 +197,10 @@ sections:
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: |
+          I loved organo way of working.
 
-
-          **Miles Tone,** *CEO, Studio*
+          **Suresh,** Chia, Farmers
         image: images/miles-tone.png
         image_alt: Miles Tone
         image_position: left
