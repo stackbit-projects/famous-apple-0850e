@@ -258,8 +258,7 @@ sections:
         title_align: center
         image: images/gustav-purpleson.jpg
         image_position: top
-      - title: Di
-        subtitle: Software Engineer
+      - subtitle: Software Engineer
         title_align: center
         image: images/dianne-ameter.jpg
         image_position: top
