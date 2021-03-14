@@ -258,7 +258,7 @@ sections:
         title_align: center
         image: images/gustav-purpleson.jpg
         image_position: top
-      - subtitle: Software Engineer
+      - subtitle: Mentor Organo India
         title_align: center
         image: images/dianne-ameter.jpg
         image_position: top
