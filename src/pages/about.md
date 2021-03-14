@@ -66,6 +66,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: images/Pan-India.svg
   - type: grid_section
     title: Our Officess
     grid_items:
