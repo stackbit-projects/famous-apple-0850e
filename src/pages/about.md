@@ -15,10 +15,26 @@ sections:
         media_width: fifty
       - title: Section Title Two
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          **Opportunity:**
+
+
+
+          This we see as the biggest week link and identify as an opportunity to
+          solve this.
+
+
+
+
+
+
+          **Solution:**
+
+
+          That’s where Organo India comes to provide first of its kind formal
+          channels to ensure fair & transparent returns and, on the other hand,
+          hassle-free procurement while ensuring quality & payment guarantee to
+          buyers sitting far.
         image: images/about-2.jpg
         image_alt: People in a conference room
         media_position: left
