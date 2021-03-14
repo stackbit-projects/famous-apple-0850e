@@ -8,9 +8,6 @@ sections:
       digitally while ensuring transparent & fair returns to farmers &
       hassle-free bulk buying of Agri produce for bulk buyers Across India.
     actions:
-      - label: Try Free
-        url: /pricing
-        style: primary
       - label: Learn More
         url: /features
         style: secondary
