@@ -213,12 +213,15 @@ sections:
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          We liked the Attitude of Ajeet (Founder Organo India), Since it was
+          the first time, but I felt I am at home and given order at first go,
+          we found not only payment guarantee but also quality material and
+          above all Organo India checks & balance at every point of Supply,
+          which you can see hardly.
 
 
-          **Gordon Norman,** *Web Designer, Studio*
+          **Sanjay Behl,** *SPS, Argo*
         image: images/gordon-norman.png
         image_alt: Gordon Norman
         image_position: left
