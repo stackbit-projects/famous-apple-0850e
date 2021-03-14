@@ -102,13 +102,7 @@ sections:
 
 
           Over 40+ Agri Commodity cultivated
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/classic/feature-2.png
         image_alt: Feature 2 placeholder image
         media_position: left
