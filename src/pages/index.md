@@ -40,7 +40,7 @@ sections:
         image_align: center
         title: Farm Gate Value Addition comply with buyer requirement
         title_align: center
-      - image: images/logo-5.svg
+      - image: images/market linkage.svg
         image_alt: DatoCMS logo
         image_align: center
         title: Access to Market Linkages Platform
