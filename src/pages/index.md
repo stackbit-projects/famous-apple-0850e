@@ -61,12 +61,32 @@ sections:
     title: Pan India Market Linkages
     features:
       - title: The Big Title For the Feature
-        content: >+
+        content: >
           In order to provide a market to Farmers, we have reputed off-takers
           across the country to buy our products on time on the other hand;
           buyers find themselves in a secured environment to procure from organo
           India Platform.
 
+
+          Supply in 5 States
+
+
+          <!---->
+
+
+          Traded over 300MT Agro commodity
+
+
+          <!---->
+
+
+          Our Core products-Spices, Herbs, Super Foods, Exotic & rare products
+
+
+          <!---->
+
+
+          Pan India storage facility
         actions:
           - label: Learn More
             url: /style-guide
