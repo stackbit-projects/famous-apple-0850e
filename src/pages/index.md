@@ -244,10 +244,7 @@ sections:
       *   Responsible production & Consumption
 
       *   Partnerships for goals
-    actions:
-      - label: Learn More
-        url: /features
-        style: secondary
+    actions: []
     actions_position: right
     actions_width: fourty
     align: left
