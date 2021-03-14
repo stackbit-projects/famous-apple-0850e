@@ -117,7 +117,7 @@ sections:
           We are offering best in class technology for smart farming, Inputs &
           Seed at the doorstep & Technical know-how support to improve farm
           productivity & farm economy with Sustainability.
-        image: images/brandon-guidelines.png
+        image: images/farm Technology.png
         image_alt: Brandon Guidelines
         media_position: right
         media_width: thirty-three
