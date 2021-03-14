@@ -30,7 +30,7 @@ sections:
         image_align: center
         title: Group Farming for better Economic growth
         title_align: center
-      - image: images/logo-3.svg
+      - image: images/techonogy-farming.svg
         image_alt: Gatsby logo
         image_align: center
         title: 'Accessibility of Agri Resources, New Technology & Consultancy'
