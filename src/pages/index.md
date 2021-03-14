@@ -43,6 +43,7 @@ sections:
       - image: images/logo-5.svg
         image_alt: DatoCMS logo
         image_align: center
+        title: Access to Market Linkages Platform
       - image: images/logo-6.svg
         image_alt: Next.js logo
         image_align: center
