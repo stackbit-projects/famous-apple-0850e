@@ -244,6 +244,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
+    title: Impact Agenda
   - type: grid_section
     title: Team Section
     subtitle: Grid Section Example
