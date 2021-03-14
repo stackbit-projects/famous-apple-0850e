@@ -45,7 +45,7 @@ sections:
         image_align: center
         title: Access to Market Linkages Platform
         title_align: center
-      - image: images/logo-6.svg
+      - image: images/Supply chain.svg
         image_alt: Next.js logo
         image_align: center
         title: End to End Supply Chain
