@@ -58,7 +58,6 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: features_section
-    title: Pan India Market Linkages
     features:
       - title: Market to Farmer
         content: >
