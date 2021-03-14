@@ -160,7 +160,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Section Item 3
+      - title: Farm Gate Produce grade for quality management
         title_align: left
         content: |
           Farm Gate Produce grade for quality management
