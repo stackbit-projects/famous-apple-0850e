@@ -202,12 +202,13 @@ sections:
         image_alt: Miles Tone
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          Since we dealt first time with organo India but we don’t felt at any
+          point in time that we are dealing with the wrong company, they are a
+          company with commitment.
 
 
-          **Eleanor Carr,** *CTO, Studio*
+          **Dano Tlang,** Meghalaya
         image: images/eleanor-carr.png
         image_alt: Eleanor Carr
         image_position: left
