@@ -258,7 +258,7 @@ sections:
         title_align: center
         image: images/gustav-purpleson.jpg
         image_position: top
-      - title: Dianne Ameter
+      - title: Di
         subtitle: Software Engineer
         title_align: center
         image: images/dianne-ameter.jpg
