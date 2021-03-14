@@ -174,19 +174,6 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
-        title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: small
