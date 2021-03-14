@@ -162,8 +162,6 @@ sections:
         image_has_padding: true
       - title: Farm Gate Produce grade for quality management
         title_align: left
-        content: |
-          Farm Gate Produce grade for quality management
         content_align: left
         actions:
           - label: Learn More
