@@ -128,10 +128,8 @@ sections:
     grid_items:
       - title: Section Item 1
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: |
+          One on One farm consultancy to Farmers for smart farming
         content_align: left
         actions:
           - label: Learn More
