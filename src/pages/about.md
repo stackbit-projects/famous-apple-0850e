@@ -14,7 +14,6 @@ sections:
         media_position: right
         media_width: fifty
       - title: Opportunity
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >
           **Opportunity:**
 
