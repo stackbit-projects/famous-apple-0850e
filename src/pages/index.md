@@ -254,7 +254,7 @@ sections:
         style: primary
     grid_items:
       - title: Ajeet Singh
-        subtitle: Co-Founder & CEO
+        subtitle: Dreamer & Enabler-Organo India
         title_align: center
         image: images/gustav-purpleson.jpg
         image_position: top
