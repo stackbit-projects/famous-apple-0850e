@@ -231,17 +231,17 @@ sections:
     background_color: secondary
   - type: cta_section
     content: |
-      Good Health & Well Being
+      *   Good Health & Well Being
 
-      Economic Growth
+      *   Economic Growth
 
-      Climate Action
+      *   Climate Action
 
-      Life on Land
+      *   Life on Land
 
-      Responsible production & Consumption
+      *   Responsible production & Consumption
 
-      Partnerships for goals
+      *   Partnerships for goals
     actions:
       - label: Learn More
         url: /features
