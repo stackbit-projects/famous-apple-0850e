@@ -13,7 +13,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "About Us",
+                "label": "About",
                 "url": "/about",
                 "style": "link",
                 "has_icon": false,
