@@ -24,7 +24,7 @@
                 "type": "action"
             },
             {
-                "label": "Menu Name",
+                "label": "Blog",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "has_icon": false,
