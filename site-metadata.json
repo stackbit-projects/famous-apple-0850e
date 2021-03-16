@@ -35,7 +35,7 @@
                 "type": "action"
             },
             {
-                "label": "Log In",
+                "label": "Contact",
                 "url": "/contact",
                 "style": "link"
             },
