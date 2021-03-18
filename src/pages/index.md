@@ -25,7 +25,7 @@ sections:
     align: center
     padding_top: large
     padding_bottom: large
-    background_color: primary
+    background_color: none
     subtitle: >-
       We are bringing together the power of community and digital tech to spark
       Green Revolution 2.0.
