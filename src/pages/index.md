@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Sell your produce with MSP.
     actions:
-      - style: link
+      - style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
