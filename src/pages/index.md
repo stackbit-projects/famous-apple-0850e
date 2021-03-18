@@ -16,9 +16,6 @@ sections:
     padding_bottom: large
     background_color: primary
     background_image: images/ultra-panda.jpeg
-    subtitle: >-
-      We are bringing together the power of community and digital tech to bring
-      Green Revolution 2.0. It’s time for Harit Kranti Dwitiya
   - type: grid_section
     title: Our Value Chain
     align: center
