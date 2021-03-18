@@ -26,7 +26,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-    subtitle: '"'
+    subtitle: '"Aapki Fasal Aapka Shram Aapka Mulyankan"'
     content: >+
       So they can sell their produce online directly to traditional buyers and
       consumer owned co-ops with Minimum selling price, because we believe that
