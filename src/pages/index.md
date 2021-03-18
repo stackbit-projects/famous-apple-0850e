@@ -11,7 +11,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-        label: Join The Revolution
+        label: List Your Produce
       - style: secondary
         has_icon: false
         icon: arrow-left
