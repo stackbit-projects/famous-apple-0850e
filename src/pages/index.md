@@ -27,47 +27,6 @@ sections:
     padding_bottom: large
     background_color: none
     subtitle: '"Aapki Fasal Aapka Shram Aapka Mulyankan"'
-  - type: grid_section
-    title: Our Value Chain
-    align: center
-    grid_items:
-      - image: images/beige-zucchini.svg
-        image_alt: Contentful logo
-        image_align: center
-        title: Farmers sensitization & Registration
-        title_align: center
-      - image: images/superb-velociraptor.svg
-        image_alt: Netlify logo
-        image_align: center
-        title: Group Farming for better Economic growth
-        title_align: center
-      - image: images/techonogy-farming.svg
-        image_alt: Gatsby logo
-        image_align: center
-        title: 'Accessibility of Agri Resources, New Technology & Consultancy'
-        title_align: center
-      - image: images/square-paprika.svg
-        image_alt: Sanity logo
-        image_align: center
-        title: Farm Gate Value Addition comply with buyer requirement
-        title_align: center
-      - image: images/market linkage.svg
-        image_alt: DatoCMS logo
-        image_align: center
-        title: Access to Market Linkages Platform
-        title_align: center
-      - image: images/Supply chain.svg
-        image_alt: Next.js logo
-        image_align: center
-        title: End to End Supply Chain
-        title_align: center
-      - image_alt: Gridsome logo
-        image_align: center
-      - image_alt: Git logo
-        image_align: center
-    grid_cols: three
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
   - type: features_section
     features:
       - title: Pan India Market Linkages
