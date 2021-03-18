@@ -4,8 +4,7 @@ sections:
   - type: hero_section
     title: Sell your produce with MSP.
     actions:
-      - url: lorem-ipsum
-        style: link
+      - style: link
         has_icon: false
         icon: arrow-left
         icon_position: right
