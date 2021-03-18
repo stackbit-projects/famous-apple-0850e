@@ -20,7 +20,6 @@ sections:
         no_follow: false
         type: action
         label: Know More
-    image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
     align: center
