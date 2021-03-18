@@ -26,7 +26,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    background_image: images/ultra-panda.jpeg
     subtitle: >-
       We are bringing together the power of community and digital tech to spark
       Green Revolution 2.0.
