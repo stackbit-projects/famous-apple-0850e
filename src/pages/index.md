@@ -26,10 +26,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-    subtitle: >-
-      We are bringing together the power of digital tech to help farmers help
-      themselves, because we believe that Self-Reliant India starts with
-      Self-Reliant Farmers
+    subtitle: We are on a mission to empower Rural Indian Farmers with Digital
     content: >+
       So they can sell their produce online directly to traditional buyers and
       consumer owned co-ops with Minimum selling price, because we believe that
