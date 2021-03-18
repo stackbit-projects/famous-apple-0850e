@@ -27,8 +27,9 @@ sections:
     padding_bottom: large
     background_color: none
     subtitle: >-
-      We are bringing together the power of community and digital tech to spark
-      Green Revolution 2.0.
+      We are bringing together the power of digital tech to help farmers help
+      themselves, because we believe that Self-Reliant India starts with
+      Self-Reliant Farmers
   - type: grid_section
     title: Our Value Chain
     align: center
