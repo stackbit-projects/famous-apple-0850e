@@ -30,6 +30,11 @@ sections:
       We are bringing together the power of digital tech to help farmers help
       themselves, because we believe that Self-Reliant India starts with
       Self-Reliant Farmers
+    content: >+
+      So they can sell their produce online directly to traditional buyers and
+      consumer owned co-ops with Minimum selling price, because we believe that
+      Self-Reliant India starts with Self-Reliant Farmers.
+
   - type: grid_section
     title: Our Value Chain
     align: center
