@@ -3,10 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: Sell your produce with MSP.
-    content: >
-      Organo India is on the mission to transform India’s Agri ecosystem
-      digitally while ensuring transparent & fair returns to farmers &
-      hassle-free bulk buying of Agri produce for bulk buyers Across India.
     actions: []
     image_alt: Hero section placeholder image
     media_position: left
