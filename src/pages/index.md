@@ -27,11 +27,6 @@ sections:
     padding_bottom: large
     background_color: none
     subtitle: '"Aapki Fasal Aapka Shram Aapka Mulyankan"'
-    content: >+
-      So they can sell their produce online directly to traditional buyers and
-      consumer owned co-ops with Minimum selling price, because we believe that
-      Self-Reliant India starts with Self-Reliant Farmers.
-
   - type: grid_section
     title: Our Value Chain
     align: center
