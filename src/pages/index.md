@@ -12,8 +12,7 @@ sections:
         no_follow: false
         type: action
         label: Join The Revolution
-      - url: lorem-ipsum
-        style: link
+      - style: link
         has_icon: false
         icon: arrow-left
         icon_position: right
