@@ -408,6 +408,6 @@ sections:
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
-    content: "##### April 2017 Supply of Organic Vegetables in collaboration with Vege vendor in societies.\n\n\nJune 2017 Reached 500 farmer base\n\n\r\nOctober 2017 We reached 4 states & 2000 Farmers base\n\n\r\nJanuary 2018 We Started connecting FPOs & Reached 15 Fpos with 5000 Farmer base\_\n\n\r\nNovember 2019 We reached 35 FPOs with a 10000 Farmer base & 35 Potential buyer\n\n\r\nApril 2020-7 States, 60 FPOs, 20000 farmers\r\nNovember 2020-10 States, 70 FPOs, 30000 farmers.\n"
+    content: "##### April 2017 Supply of Organic Vegetables in collaboration with Vege vendor in societies.\n\n##### June 2017 Reached 500 farmer base\n\n##### October 2017 We reached 4 states & 2000 Farmers base\n\n##### January 2018 We Started connecting FPOs & Reached 15 Fpos with 5000 Farmer base\_\n\n##### November 2019 We reached 35 FPOs with a 10000 Farmer base & 35 Potential buyer\n\n##### April 2020-7 States, 60 FPOs, 20000 farmers\n\n##### &#xD;November 2020-10 States, 70 FPOs, 30000 farmers.\n"
 template: advanced
 ---
