@@ -398,7 +398,16 @@ sections:
     background_color: none
   - type: cta_section
     title: 'Our Journey:'
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
     actions_position: bottom
     align: center
     padding_top: large
