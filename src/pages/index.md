@@ -276,82 +276,6 @@ sections:
     grid_gap_vert: large
     align: center
     background_color: secondary
-  - type: cta_section
-    content: |
-      *   Good Health & Well Being
-
-      *   Economic Growth
-
-      *   Climate Action
-
-      *   Life on Land
-
-      *   Responsible production & Consumption
-
-      *   Partnerships for goals
-    actions: []
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
-    title: Impact Agenda
-  - type: grid_section
-    title: Team Section
-    subtitle: Grid Section Example
-    actions:
-      - label: Join the team
-        url: /style-guide
-        style: primary
-    grid_items:
-      - title: Ajeet Singh
-        subtitle: Dreamer & Enabler-Organo India
-        title_align: center
-        image: images/gustav-purpleson.jpg
-        image_position: top
-      - subtitle: Mentor Organo India
-        title_align: center
-        image: images/dianne-ameter.jpg
-        image_position: top
-        title: Pulkit Yadav
-      - title: Vivek Tripathi
-        subtitle: Mentor Organo India
-        title_align: center
-        image: images/hugh-saturation.jpg
-        image_position: top
-    grid_cols: three
-    align: center
-    background_color: secondary
-  - type: blog_feed_section
-    title: Blog
-    actions:
-      - label: View All
-        url: /blog
-        style: primary
-    blog_feed_cols: three
-    enable_cards: true
-    show_recent: true
-    recent_count: 3
-    show_image: true
-    show_date: true
-    show_categories: true
-    show_author: true
-    show_excerpt: false
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-  - type: cta_section
-    title: 'Our Journey:'
-    content: "2016-Organo India founded\n\nApril 2017 Supply of Organic Vegetables in collaboration with Vege vendor in societies.\n\nJune 2017 Reached 500 farmer base\n\nOctober 2017 We reached 4 states & 2000 Farmers base\n\nJanuary 2018 We Started connecting FPOs & Reached 15 Fpos with 5000 Farmer base\_\n\nNovember 2019 We reached 35 FPOs with a 10000 Farmer base & 35 Potential buyer\n\nApril 2020-7 States, 60 FPOs, 20000 farmers\n\nNovember 2020-10 States, 70 FPOs, 30000 farmers.\n"
-    actions: []
-    actions_position: bottom
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: secondary
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
@@ -442,5 +366,81 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
+  - type: cta_section
+    content: |
+      *   Good Health & Well Being
+
+      *   Economic Growth
+
+      *   Climate Action
+
+      *   Life on Land
+
+      *   Responsible production & Consumption
+
+      *   Partnerships for goals
+    actions: []
+    actions_position: right
+    actions_width: fourty
+    align: left
+    padding_top: large
+    padding_bottom: large
+    background_color: primary
+    title: Impact Agenda
+  - type: grid_section
+    title: Team Section
+    subtitle: Grid Section Example
+    actions:
+      - label: Join the team
+        url: /style-guide
+        style: primary
+    grid_items:
+      - title: Ajeet Singh
+        subtitle: Dreamer & Enabler-Organo India
+        title_align: center
+        image: images/gustav-purpleson.jpg
+        image_position: top
+      - subtitle: Mentor Organo India
+        title_align: center
+        image: images/dianne-ameter.jpg
+        image_position: top
+        title: Pulkit Yadav
+      - title: Vivek Tripathi
+        subtitle: Mentor Organo India
+        title_align: center
+        image: images/hugh-saturation.jpg
+        image_position: top
+    grid_cols: three
+    align: center
+    background_color: secondary
+  - type: blog_feed_section
+    title: Blog
+    actions:
+      - label: View All
+        url: /blog
+        style: primary
+    blog_feed_cols: three
+    enable_cards: true
+    show_recent: true
+    recent_count: 3
+    show_image: true
+    show_date: true
+    show_categories: true
+    show_author: true
+    show_excerpt: false
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+  - type: cta_section
+    title: 'Our Journey:'
+    content: "2016-Organo India founded\n\nApril 2017 Supply of Organic Vegetables in collaboration with Vege vendor in societies.\n\nJune 2017 Reached 500 farmer base\n\nOctober 2017 We reached 4 states & 2000 Farmers base\n\nJanuary 2018 We Started connecting FPOs & Reached 15 Fpos with 5000 Farmer base\_\n\nNovember 2019 We reached 35 FPOs with a 10000 Farmer base & 35 Potential buyer\n\nApril 2020-7 States, 60 FPOs, 20000 farmers\n\nNovember 2020-10 States, 70 FPOs, 30000 farmers.\n"
+    actions: []
+    actions_position: bottom
+    align: center
+    padding_top: large
+    padding_bottom: large
+    background_color: secondary
 template: advanced
 ---
