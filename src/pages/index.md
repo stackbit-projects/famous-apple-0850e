@@ -285,7 +285,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/12.svg
-    grid_cols: four
+    grid_cols: three
     grid_gap_vert: large
     grid_gap_horiz: small
     enable_cards: true
