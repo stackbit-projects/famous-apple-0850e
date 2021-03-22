@@ -176,7 +176,7 @@ sections:
         image_position: top
         image_width: twenty-five
         image_align: center
-        image_has_padding: false
+        image_has_padding: true
         type: grid_item
         image: images/spectacular-yam.svg
       - title_align: left
