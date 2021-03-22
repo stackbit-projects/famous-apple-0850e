@@ -274,8 +274,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/12.svg
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content_align: left
         actions: []
         actions_align: left
