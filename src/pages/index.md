@@ -273,18 +273,6 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/70_1.svg
-      - title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: center
-        image_has_padding: true
-        type: grid_item
-        image: images/30k.svg
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
@@ -309,6 +297,18 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+      - title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: center
+        image_has_padding: true
+        type: grid_item
+        image: images/30k.svg
     grid_cols: four
     grid_gap_vert: large
     grid_gap_horiz: large
