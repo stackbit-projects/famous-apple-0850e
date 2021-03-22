@@ -80,6 +80,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
+    title: “Kaun Ambani ya Adani Krishak ki kheti Mitti aur paani”
   - type: features_section
     features:
       - title: Resources accebssibility Technology Intervention & farm Consultancy.
