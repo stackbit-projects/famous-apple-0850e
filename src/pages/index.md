@@ -405,5 +405,6 @@ sections:
     padding_bottom: large
     background_color: secondary
     background_image: images/Journey.svg
+    has_border: true
 template: advanced
 ---
