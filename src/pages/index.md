@@ -26,7 +26,9 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-    subtitle: '"Aapki Fasal Aapka Shram Aapka Mulyankan"'
+    subtitle: >-
+      We are bringing together the power of community and digital tech to spark
+      Green Revolution 2.0.
     background_image: images/banner.png
   - type: grid_section
     title: Why Organo India
