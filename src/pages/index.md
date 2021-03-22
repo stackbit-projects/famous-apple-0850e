@@ -22,7 +22,7 @@ sections:
         label: Call an Expert
     media_position: left
     media_width: fifty
-    align: center
+    align: left
     padding_top: large
     padding_bottom: large
     background_color: none
