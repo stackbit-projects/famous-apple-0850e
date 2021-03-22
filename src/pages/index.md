@@ -317,7 +317,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/50.svg
+        image: images/adorable-comet.svg
       - title_align: left
         content_align: left
         actions: []
