@@ -225,57 +225,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - type: grid_section
-    title: Reviews Section
-    subtitle: Grid Section Example
-    grid_items:
-      - content: >
-          We dealt with Organo India; their support was amazing and paid a
-          premium for our produce & timely.
-
-
-          **Girish,** Organic Farmer, Rajasthan
-        image: images/hanson-deck.png
-        image_alt: Hanson Deck
-        image_position: left
-        image_width: twenty-five
-      - content: |
-          I loved organo way of working.
-
-          **Suresh,** Chia, Farmers
-        image: images/miles-tone.png
-        image_alt: Miles Tone
-        image_position: left
-        image_width: twenty-five
-      - content: >
-          Since we dealt first time with organo India but we don’t felt at any
-          point in time that we are dealing with the wrong company, they are a
-          company with commitment.
-
-
-          **Dano Tlang,** Meghalaya
-        image: images/eleanor-carr.png
-        image_alt: Eleanor Carr
-        image_position: left
-        image_width: twenty-five
-      - content: >
-          We liked the Attitude of Ajeet (Founder Organo India), Since it was
-          the first time, but I felt I am at home and given order at first go,
-          we found not only payment guarantee but also quality material and
-          above all Organo India checks & balance at every point of Supply,
-          which you can see hardly.
-
-
-          **Sanjay Behl,** *SPS, Argo*
-        image: images/gordon-norman.png
-        image_alt: Gordon Norman
-        image_position: left
-        image_width: twenty-five
-    grid_cols: two
-    grid_gap_horiz: medium
-    grid_gap_vert: large
-    align: center
-    background_color: secondary
   - type: cta_section
     content: |
       *   Good Health & Well Being
@@ -387,6 +336,57 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
+  - type: grid_section
+    title: Reviews Section
+    subtitle: Grid Section Example
+    grid_items:
+      - content: >
+          We dealt with Organo India; their support was amazing and paid a
+          premium for our produce & timely.
+
+
+          **Girish,** Organic Farmer, Rajasthan
+        image: images/hanson-deck.png
+        image_alt: Hanson Deck
+        image_position: left
+        image_width: twenty-five
+      - content: |
+          I loved organo way of working.
+
+          **Suresh,** Chia, Farmers
+        image: images/miles-tone.png
+        image_alt: Miles Tone
+        image_position: left
+        image_width: twenty-five
+      - content: >
+          Since we dealt first time with organo India but we don’t felt at any
+          point in time that we are dealing with the wrong company, they are a
+          company with commitment.
+
+
+          **Dano Tlang,** Meghalaya
+        image: images/eleanor-carr.png
+        image_alt: Eleanor Carr
+        image_position: left
+        image_width: twenty-five
+      - content: >
+          We liked the Attitude of Ajeet (Founder Organo India), Since it was
+          the first time, but I felt I am at home and given order at first go,
+          we found not only payment guarantee but also quality material and
+          above all Organo India checks & balance at every point of Supply,
+          which you can see hardly.
+
+
+          **Sanjay Behl,** *SPS, Argo*
+        image: images/gordon-norman.png
+        image_alt: Gordon Norman
+        image_position: left
+        image_width: twenty-five
+    grid_cols: two
+    grid_gap_horiz: medium
+    grid_gap_vert: large
+    align: center
+    background_color: secondary
   - type: grid_section
     title: Team Section
     subtitle: Grid Section Example
