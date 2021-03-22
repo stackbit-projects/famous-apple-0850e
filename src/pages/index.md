@@ -30,8 +30,7 @@ sections:
     background_image: images/banner.png
   - type: features_section
     features:
-      - title: “Kaun Ambani ya AdaniKrishak ki kheti Mitti aur paani”
-        content: >
+      - content: >
           In order to provide a market to Farmers, we have reputed off-takers
           across the country to buy our products on time on the other hand;
           buyers find themselves in a secured environment to procure from organo
