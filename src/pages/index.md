@@ -298,6 +298,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/70_1.svg
     grid_cols: three
     grid_gap_vert: large
     grid_gap_horiz: large
