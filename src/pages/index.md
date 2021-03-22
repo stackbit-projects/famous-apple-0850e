@@ -404,7 +404,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/best-mars.svg
+        image: images/25k.svg
     feature_padding_vert: medium
     align: center
     padding_top: medium
