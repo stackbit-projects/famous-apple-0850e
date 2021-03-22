@@ -407,5 +407,6 @@ sections:
     background_image: images/Journey.svg
     has_border: false
     background_image_size: cover
+    background_image_position: center center
 template: advanced
 ---
