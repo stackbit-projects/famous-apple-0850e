@@ -465,7 +465,6 @@ sections:
 
 
 
-    background_image: images/panoramic-neptune.svg
   - title: Our Journey
     features:
       - actions: []
