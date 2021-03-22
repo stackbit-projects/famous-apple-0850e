@@ -27,8 +27,7 @@ sections:
     padding_bottom: large
     background_color: none
     subtitle: '"Aapki Fasal Aapka Shram Aapka Mulyankan"'
-    background_image: >-
-      images/food-background-food-concept-with-various-tasty-fresh-ingredients-cooking-italian-food-ingredients-view-from-with-copy-space.jpg
+    background_image: images/500_F_366651271_14s9jF5aAKHvyr7EIH2bt95TJy3gjCzb.jpg
   - type: features_section
     features:
       - title: Pan India Market Linkages
