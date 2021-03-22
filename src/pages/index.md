@@ -247,7 +247,6 @@ sections:
     background_color: primary
     title: Impact Agenda
   - title: Our Network
-    subtitle: lorem-ipsum
     actions: []
     grid_items:
       - title_align: left
