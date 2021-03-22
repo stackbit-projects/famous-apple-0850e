@@ -75,7 +75,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/pleasant-goose.svg
+        image: images/caring-lettuce.svg
         image_alt: Section item 3 icon
         image_position: top
         image_align: left
