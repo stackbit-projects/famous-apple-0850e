@@ -280,7 +280,6 @@ sections:
     padding_bottom: large
     background_color: secondary
   - title: Since 2018 we have created
-    subtitle: lorem-ipsum
     actions: []
     grid_items:
       - title: lorem-ipsum
