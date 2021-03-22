@@ -26,9 +26,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-    subtitle: >-
-      We are bringing together the power of community and digital tech to spark
-      Green Revolution 2.0.
+    subtitle: "We are bringing together the power of community and digital tech to spark Green Revolution 2.0.It’s\_time for Harit Kranti Dwitiya"
     background_image: images/banner.png
   - type: grid_section
     title: Why Organo India
