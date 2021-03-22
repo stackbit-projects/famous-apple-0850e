@@ -287,7 +287,7 @@ sections:
         image: images/12.svg
     grid_cols: four
     grid_gap_vert: large
-    grid_gap_horiz: large
+    grid_gap_horiz: small
     enable_cards: true
     align: center
     padding_top: medium
