@@ -299,6 +299,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
+    background_image: images/India.svg
   - type: grid_section
     title: Reviews Section
     subtitle: Grid Section Example
