@@ -404,7 +404,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/great-daffodil.svg
+        image: images/best-mars.svg
     feature_padding_vert: medium
     align: center
     padding_top: medium
