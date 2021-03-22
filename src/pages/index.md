@@ -473,7 +473,6 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        title: Our Journey
         image: images/great-daffodil.svg
     feature_padding_vert: medium
     align: center
