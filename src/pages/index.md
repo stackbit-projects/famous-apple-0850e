@@ -54,6 +54,7 @@ sections:
         media_position: right
         media_width: fifty
         image: images/Pan India.svg
+        title: “Kaun Ambani ya Adani Krishak ki kheti Mitti aur paani”
       - title: Our Farmers Network
         content: >
           We are proving first of Its kind formal selling Tech platform to
