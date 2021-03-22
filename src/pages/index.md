@@ -404,7 +404,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/elite-mahogany.svg
+        image: images/500_F_366651271_14s9jF5aAKHvyr7EIH2bt95TJy3gjCzb.jpg
     feature_padding_vert: medium
     align: center
     padding_top: medium
