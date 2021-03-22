@@ -306,8 +306,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/25k.svg
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
