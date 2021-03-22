@@ -406,5 +406,6 @@ sections:
     background_color: secondary
     background_image: images/Journey.svg
     has_border: false
+    background_image_size: cover
 template: advanced
 ---
