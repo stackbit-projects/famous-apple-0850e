@@ -468,8 +468,7 @@ sections:
     background_image: images/panoramic-neptune.svg
   - title: Our Journey
     features:
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
