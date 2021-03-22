@@ -28,6 +28,63 @@ sections:
     background_color: none
     subtitle: '"Aapki Fasal Aapka Shram Aapka Mulyankan"'
     background_image: images/banner.png
+  - type: grid_section
+    title: Why Organo India
+    grid_items:
+      - title: One on One farm consultancy to Farmers for smart farming.
+        title_align: left
+        content_align: left
+        actions:
+          - label: Learn More
+            url: /style-guide
+            style: link
+            has_icon: true
+            icon: arrow-right
+            icon_position: center
+        actions_align: left
+        image: images/OneonOne.svg
+        image_alt: Section item 1 icon
+        image_position: top
+        image_align: left
+        image_has_padding: true
+      - title: Transparent & Fair Return to farmers
+        title_align: left
+        content_align: left
+        actions:
+          - label: Learn More
+            url: /style-guide
+            style: link
+            has_icon: true
+            icon: arrow-right
+            icon_position: center
+        actions_align: left
+        image: images/Fair farming.svg
+        image_alt: Section item 2 icon
+        image_position: top
+        image_align: left
+        image_has_padding: true
+      - title: Farm Gate Produce grade for quality management
+        title_align: left
+        content_align: left
+        actions:
+          - label: Learn More
+            url: /style-guide
+            style: link
+            has_icon: true
+            icon: arrow-right
+            icon_position: center
+        actions_align: left
+        image: images/pleasant-goose.svg
+        image_alt: Section item 3 icon
+        image_position: top
+        image_align: left
+        image_has_padding: true
+    grid_cols: three
+    grid_gap_horiz: medium
+    grid_gap_vert: small
+    enable_cards: true
+    align: center
+    background_color: none
   - type: features_section
     features:
       - content: >
@@ -94,63 +151,6 @@ sections:
         media_width: thirty-three
     feature_padding_vert: small
     background_color: primary
-  - type: grid_section
-    title: Why Organo India
-    grid_items:
-      - title: One on One farm consultancy to Farmers for smart farming.
-        title_align: left
-        content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
-        actions_align: left
-        image: images/OneonOne.svg
-        image_alt: Section item 1 icon
-        image_position: top
-        image_align: left
-        image_has_padding: true
-      - title: Transparent & Fair Return to farmers
-        title_align: left
-        content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
-        actions_align: left
-        image: images/Fair farming.svg
-        image_alt: Section item 2 icon
-        image_position: top
-        image_align: left
-        image_has_padding: true
-      - title: Farm Gate Produce grade for quality management
-        title_align: left
-        content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
-        actions_align: left
-        image: images/pleasant-goose.svg
-        image_alt: Section item 3 icon
-        image_position: top
-        image_align: left
-        image_has_padding: true
-    grid_cols: three
-    grid_gap_horiz: medium
-    grid_gap_vert: small
-    enable_cards: true
-    align: center
-    background_color: none
   - type: grid_section
     title: Reviews Section
     subtitle: Grid Section Example
