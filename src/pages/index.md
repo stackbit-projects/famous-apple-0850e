@@ -54,7 +54,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-        image: images/modern-pluto.svg
+        image: images/Pan India.svg
       - title: Our Farmers Network
         content: >
           We are proving first of Its kind formal selling Tech platform to
