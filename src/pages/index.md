@@ -305,7 +305,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/25k.svg
+        image: images/spectacular-yam.svg
       - title_align: left
         content_align: left
         actions: []
