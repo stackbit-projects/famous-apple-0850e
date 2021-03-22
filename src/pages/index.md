@@ -342,6 +342,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/40.svg
     grid_cols: four
     grid_gap_vert: large
     grid_gap_horiz: large
