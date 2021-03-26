@@ -225,15 +225,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - type: cta_section
-    actions: []
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
-    title: Impact Agenda
   - title: Impact Agenda
     actions: []
     grid_items: []
