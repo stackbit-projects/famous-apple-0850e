@@ -302,7 +302,7 @@ sections:
         image: images/sdg17.jpg
     grid_cols: three
     grid_gap_vert: large
-    grid_gap_horiz: small
+    grid_gap_horiz: large
     enable_cards: false
     align: center
     padding_top: medium
