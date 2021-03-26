@@ -430,7 +430,7 @@ sections:
         image_position: top
       - subtitle: Mentor Organo India
         title_align: center
-        image: images/Artboard 11.png
+        image: images/terrific-dolphin.png
         image_position: top
         title: Pulkit Yadav
       - title: Vivek Tripathi
