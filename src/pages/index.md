@@ -302,7 +302,7 @@ sections:
         type: grid_item
         image: images/sdg17.jpg
     grid_cols: three
-    grid_gap_vert: small
+    grid_gap_vert: medium
     grid_gap_horiz: large
     enable_cards: false
     align: center
