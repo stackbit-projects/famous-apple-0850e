@@ -267,7 +267,7 @@ sections:
         type: grid_item
         image: images/8.png
         title: DECENT WORK AND ECONOMIC GROWTH
-      - title_align: left
+      - title_align: center
         content_align: left
         actions: []
         actions_align: left
