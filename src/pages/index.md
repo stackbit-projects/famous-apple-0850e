@@ -353,10 +353,7 @@ sections:
   - type: grid_section
     title: Team Section
     subtitle: Grid Section Example
-    actions:
-      - label: Join the team
-        url: /style-guide
-        style: primary
+    actions: []
     grid_items:
       - title: Ajeet Singh
         subtitle: Dreamer & Enabler-Organo India
