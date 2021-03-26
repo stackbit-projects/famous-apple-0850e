@@ -266,7 +266,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/8.png
-        title: DECENT WORK AND ECONOMIC GROWTH
+        title: DECENT WORK & ECONOMIC GROWTH
       - title_align: center
         content_align: left
         actions: []
