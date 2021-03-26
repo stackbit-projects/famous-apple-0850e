@@ -226,18 +226,6 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - type: cta_section
-    content: |
-      *   Good Health & Well Being
-
-      *   Economic Growth
-
-      *   Climate Action
-
-      *   Life on Land
-
-      *   Responsible production & Consumption
-
-      *   Partnerships for goals
     actions: []
     actions_position: right
     actions_width: fourty
