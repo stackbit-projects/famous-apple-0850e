@@ -361,7 +361,7 @@ sections:
       - title: Ajeet Singh
         subtitle: Dreamer & Enabler-Organo India
         title_align: center
-        image: images/gustav-purpleson.jpg
+        image: images/1616772017609.jpg
         image_position: top
       - subtitle: Mentor Organo India
         title_align: center
