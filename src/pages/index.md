@@ -293,7 +293,7 @@ sections:
         type: grid_item
         image: images/12_1.png
         title: RESPONSIBLE CONSUMPTION AND PRODUCTION
-      - title_align: left
+      - title_align: center
         content_align: left
         actions: []
         actions_align: left
