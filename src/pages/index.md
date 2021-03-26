@@ -309,7 +309,7 @@ sections:
 
 
           **Girish,** Organic Farmer, Rajasthan
-        image: images/nervous-hedgehog.jpg
+        image: images/diligent-oak.jpg
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
