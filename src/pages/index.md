@@ -371,7 +371,7 @@ sections:
       - title: Vivek Tripathi
         subtitle: Mentor Organo India
         title_align: center
-        image: images/hugh-saturation.jpg
+        image: images/Artboard 8 copy.jpg
         image_position: top
     grid_cols: three
     align: center
