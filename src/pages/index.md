@@ -317,7 +317,7 @@ sections:
           I loved organo way of working.
 
           **Suresh,** Chia, Farmers
-        image: images/miles-tone.png
+        image: images/Artboard 8 copy 3.jpg
         image_alt: Miles Tone
         image_position: left
         image_width: twenty-five
