@@ -233,7 +233,7 @@ sections:
         actions: []
         actions_align: center
         actions_width: auto
-        image_alt: lorem-ipsum
+        image_alt: Zero Hunger
         image_position: bottom
         image_width: fifty
         image_align: center
