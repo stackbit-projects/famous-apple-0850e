@@ -341,7 +341,7 @@ sections:
 
 
           **Sanjay Behl,** *SPS, Argo*
-        image: images/gordon-norman.png
+        image: images/Artboard 8 copy 2.jpg
         image_alt: Gordon Norman
         image_position: left
         image_width: twenty-five
