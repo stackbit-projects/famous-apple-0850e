@@ -241,7 +241,7 @@ sections:
         type: grid_item
         image: images/curious-dolphin.png
         title: NO POVERTY
-      - title_align: left
+      - title_align: center
         content_align: left
         actions: []
         actions_align: left
