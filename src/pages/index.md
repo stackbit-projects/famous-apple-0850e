@@ -278,7 +278,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/sdg9.jpg
+        image: images/9.png
         title: RESPONSIBLE CONSUMPTION AND PRODUCTION
       - title_align: left
         content_align: left
