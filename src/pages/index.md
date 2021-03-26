@@ -253,7 +253,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/2.png
-        title: Zero Hunger
+        title: ZERO HUNGER
       - title_align: left
         content_align: left
         actions: []
