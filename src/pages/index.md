@@ -279,7 +279,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/9.png
-        title: RESPONSIBLE CONSUMPTION AND PRODUCTION
+        title: INDUSTRIAL INNOVATION AND INFRASTRUCTURE
       - title_align: left
         content_align: left
         actions: []
