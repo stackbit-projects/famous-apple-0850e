@@ -239,7 +239,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/1.png
+        image: images/rainy-mustard.png
         title: Zero Hunger
       - title_align: left
         content_align: left
