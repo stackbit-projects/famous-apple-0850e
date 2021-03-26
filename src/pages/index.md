@@ -306,7 +306,7 @@ sections:
         type: grid_item
         image: images/17.png
         title: PARTNERSHIPS FOR THE GOALS
-    grid_cols: three
+    grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: large
     enable_cards: false
