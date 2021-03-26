@@ -235,7 +235,6 @@ sections:
     background_color: primary
     title: Impact Agenda
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
     actions: []
     grid_items: []
     grid_cols: four
