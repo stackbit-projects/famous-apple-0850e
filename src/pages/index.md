@@ -309,7 +309,7 @@ sections:
 
 
           **Girish,** Organic Farmer, Rajasthan
-        image: images/hanson-deck.png
+        image: images/Artboard 8 copy 4.jpg
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
