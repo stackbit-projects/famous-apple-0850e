@@ -252,7 +252,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/sdg2.jpg
+        image: images/2.png
       - title_align: left
         content_align: left
         actions: []
