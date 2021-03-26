@@ -264,8 +264,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/sdg8.jpg
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: >-
           ## Lorem ipsum
 
