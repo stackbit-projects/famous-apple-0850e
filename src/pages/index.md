@@ -361,7 +361,7 @@ sections:
       - title: Ajeet Singh
         subtitle: Dreamer & Enabler-Organo India
         title_align: center
-        image: images/1616772017609.jpg
+        image: images/Artboard 8.jpg
         image_position: top
       - subtitle: Mentor Organo India
         title_align: center
