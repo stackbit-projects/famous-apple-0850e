@@ -229,7 +229,7 @@ sections:
     actions: []
     grid_items:
       - title_align: left
-        content_align: left
+        content_align: center
         actions: []
         actions_align: center
         actions_width: auto
