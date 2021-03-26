@@ -266,6 +266,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/sdg8.jpg
+        title: DECENT WORK AND ECONOMIC GROWTH
       - title_align: left
         content_align: left
         actions: []
