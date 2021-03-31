@@ -12,9 +12,6 @@ sections:
     grid_items:
       - title: Partner with us
         title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam.
         content_align: center
         actions:
           - label: Get Support
