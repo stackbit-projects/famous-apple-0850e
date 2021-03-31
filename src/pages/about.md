@@ -115,7 +115,6 @@ sections:
     background_color: none
   - type: cta_section
     title: This is a Call to Action
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
       - label: Compare Plans
         url: /pricing
