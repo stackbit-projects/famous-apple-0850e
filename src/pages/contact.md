@@ -26,6 +26,8 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
+        content: |
+          Partner with us
       - title: Help & Support
         title_align: center
         content: >-
