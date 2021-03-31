@@ -37,7 +37,7 @@ sections:
         content_align: center
         actions:
           - label: Get Support
-            url: /general-enquiries
+            url: /
             style: secondary
             has_icon: true
             icon: arrow-right
