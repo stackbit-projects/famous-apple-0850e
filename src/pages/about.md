@@ -99,8 +99,7 @@ sections:
           [email@example.com](mailto:email@example.com)
         content_align: left
         actions:
-          - label: Get Directions
-            style: link
+          - style: link
             has_icon: true
             icon: arrow-right
             icon_position: right
