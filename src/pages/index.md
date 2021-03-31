@@ -426,7 +426,6 @@ sections:
     background_color: secondary
   - type: grid_section
     title: Team Section
-    subtitle: Grid Section Example
     actions: []
     grid_items:
       - title: Ajeet Singh
