@@ -30,9 +30,10 @@ sections:
           Partner with us
       - title: Help & Support
         title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla.
+        content: |
+          info@organoindia.in
+
+          \+91-8090953084
         content_align: center
         actions:
           - label: Get Support
