@@ -3,7 +3,6 @@ title: General enquiries
 sections:
   - type: hero_section
     title: Partner With Us
-    subtitle: The optional subtitle
     align: center
     padding_top: medium
     padding_bottom: medium
