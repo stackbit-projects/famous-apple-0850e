@@ -91,7 +91,7 @@ sections:
     has_border: false
     background_color: none
   - type: cta_section
-    title: This is a Call to Action
+    title: Call to Action
     actions:
       - label: Compare Plans
         url: /pricing
