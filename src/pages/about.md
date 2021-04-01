@@ -57,10 +57,12 @@ sections:
         actions_align: left
         actions_width: auto
       - title: Gauwahati
-        content: >-
-          1234 Some St.<br/> Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)
+        content: >
+          147, Assam Trunk Rd, PWD Colony, Paltan Baazar, Guwahati, Assam
+          781001 
+
+
+          \+91-8090953084
         content_align: left
         actions:
           - label: Get Directions
