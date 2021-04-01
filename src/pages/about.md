@@ -91,7 +91,7 @@ sections:
     has_border: false
     background_color: none
   - type: cta_section
-    title: Call to Action
+    title: Call for Action
     actions:
       - label: +91-8090953084
         url: /pricing
