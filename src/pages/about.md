@@ -47,7 +47,7 @@ sections:
   - type: grid_section
     title: Our Officess
     grid_items:
-      - title: Some City
+      - title: New Delhi
         content: |
           D-1/148 Mansa Ram Park, Uttam Nagar, New Delhi-110059
 
