@@ -39,7 +39,7 @@ sections:
         media_position: left
         media_width: fifty
       - content: "Farm to market farmers across India creates bids after harvest on our platform, with MSP.\n\nOur team performs the quality check, ensure the quality of material and upload all info with image, COA & videos online.\n\nPotential buyers from across the nation bid on the produce\n\nFarmer get notified of the highest bid, and he can choose to accept or reject,\n\n\_if the farmer accept, the buyer notified and promoted to pay a small deposit and choose the delivery method\n\nWe bring the material to a common value addition centre for quality improvement.\n\nWe complete the supply chain and deliver material to the buyer doorstep.\n"
-        image: images/about-1.jpg
+        image: images/WhatsApp Image 2021-03-16 at 15.36.08 (1).jpeg
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
