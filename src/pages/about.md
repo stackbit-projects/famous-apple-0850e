@@ -51,10 +51,7 @@ sections:
         content: |
           D-1/148 Mansa Ram Park
 
-          \<br/>
           Uttam Nagar, New Delhi-110059
-
-          \<br/>
 
           \+91-8090953084
         content_align: left
