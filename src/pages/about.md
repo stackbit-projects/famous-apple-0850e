@@ -93,7 +93,7 @@ sections:
   - type: cta_section
     title: Call to Action
     actions:
-      - label: Compare Plans
+      - label: +91-8090953084
         url: /pricing
         style: primary
     align: center
