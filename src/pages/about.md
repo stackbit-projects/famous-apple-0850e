@@ -9,7 +9,7 @@ sections:
     features:
       - title: Mission to Transform
         content: "Organo India is on the mission to transform India’s Agri ecosystem digitally while ensuring transparent & fair returns to farmers & hassle-free bulk buying of Agri produce for bulk buyers Across India.\n\n\n\n\nVision: Transform Agri to Highest-paying profession for all Agri stakeholders, especially farmers\n\nMission:\_ Provide Best class technology, Farmgate value addition, Create a Robust end to end supply chain.\n\n**USP: **Standardization at farm gate & hassle-free procurement\n"
-        image: images/about-5.jpg
+        image: images/WhatsApp Image 2021-03-16 at 15.36.09 (1).jpeg
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
