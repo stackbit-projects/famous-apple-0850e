@@ -56,7 +56,7 @@ sections:
         actions: []
         actions_align: left
         actions_width: auto
-      - title: Gauwahati
+      - title: Guwahati
         content: >
           147, Assam Trunk Rd, PWD Colony, Paltan Baazar, Guwahati, Assam
           781001 
