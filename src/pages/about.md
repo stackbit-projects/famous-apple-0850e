@@ -48,10 +48,15 @@ sections:
     title: Our Officess
     grid_items:
       - title: Some City
-        content: >-
-          1234 Some St.<br/> Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)
+        content: |
+          D-1/148 Mansa Ram Park
+
+          \<br/>
+          Uttam Nagar, New Delhi-110059
+
+          \<br/>
+
+          \+91-8090953084
         content_align: left
         actions:
           - label: Get Directions
