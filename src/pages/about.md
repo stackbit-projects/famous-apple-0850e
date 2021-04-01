@@ -34,7 +34,7 @@ sections:
           channels to ensure fair & transparent returns and, on the other hand,
           hassle-free procurement while ensuring quality & payment guarantee to
           buyers sitting far.
-        image: images/about-2.jpg
+        image: images/WhatsApp Image 2021-03-16 at 15.36.10.jpeg
         image_alt: People in a conference room
         media_position: left
         media_width: fifty
