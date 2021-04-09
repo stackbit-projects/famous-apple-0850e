@@ -30,7 +30,7 @@ sections:
     background_image: images/AdobeStock_366651271.jpg
     has_border: false
     background_image_size: auto
-    background_image_position: center top
+    background_image_position: left top
   - type: grid_section
     title: Why Organo India
     grid_items:
