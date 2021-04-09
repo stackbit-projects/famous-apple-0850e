@@ -34,6 +34,7 @@ sections:
           - Farmer
           - Buyer
           - 'Transporter '
+          - lorem-ipsum
       - input_type: textarea
         name: message
         label: Message
