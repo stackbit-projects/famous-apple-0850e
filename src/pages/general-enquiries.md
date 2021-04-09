@@ -34,7 +34,7 @@ sections:
           - Farmer
           - Buyer
           - 'Transporter '
-          - lorem-ipsum
+          - Rural Agripreneur
       - input_type: textarea
         name: message
         label: Message
