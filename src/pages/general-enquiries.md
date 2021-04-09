@@ -31,8 +31,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - >-
-            https://www.theeducationalliance.org/tamil-nadu-tripura-pmu-for-ngo-partnerships-management/
+          - null
           - Sponsorship
           - Other
       - input_type: textarea
