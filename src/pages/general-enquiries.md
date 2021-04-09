@@ -32,7 +32,7 @@ sections:
         default_value: Please select
         options:
           - Farmer
-          - Sponsorship
+          - Buyer
           - Other
       - input_type: textarea
         name: message
