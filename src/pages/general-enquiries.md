@@ -35,7 +35,7 @@ sections:
           - Buyer
           - 'Transporter '
           - Rural Agripreneur
-          - rehtO
+          - Other
       - input_type: textarea
         name: message
         label: Message
