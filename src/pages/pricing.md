@@ -10,7 +10,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: small
-    background_image: images/modern-hedgehog.jpeg
+    background_image: images/AdobeStock_366651271.jpg
     has_border: false
     background_image_size: cover
   - type: grid_section
