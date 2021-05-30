@@ -12,7 +12,6 @@ sections:
         no_follow: false
         type: action
         label: List Your Produce
-        url: '#'
       - style: secondary
         has_icon: false
         icon: arrow-left
